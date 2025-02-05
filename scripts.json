@@ -3,6 +3,10 @@
         {
             "name": "Owl Hub",
             "link": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
+        },
+        {
+            "name": "Dark Dex Explorer",
+            "link": "https://raw.githubusercontent.com/MoonDeveloping/MoonScripts/refs/heads/main/darkdex.lua"
         }
     ]
 }
